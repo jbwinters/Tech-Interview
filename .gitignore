@@ -1,0 +1,14 @@
+activities.json
+
+# python .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+
+# npm react .gitignore
+node_modules/
+.DS_Store
+*.log
+
